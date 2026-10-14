@@ -1,0 +1,63 @@
+/* =========================================
+   DESIGN VARIABLES
+========================================= */
+
+:root {
+
+    /* Colors */
+
+    --color-primary: #2563eb;
+    --color-primary-dark: #1d4ed8;
+
+    --color-dark: #0f172a;
+    --color-dark-soft: #1e293b;
+
+    --color-text: #334155;
+    --color-text-light: #64748b;
+
+    --color-white: #ffffff;
+    --color-background: #f8fafc;
+    --color-border: #e2e8f0;
+
+    --color-success: #22c55e;
+
+
+    /* Typography */
+
+    --font-main:
+        Inter,
+        Arial,
+        Helvetica,
+        sans-serif;
+
+
+    /* Container */
+
+    --container-width: 1120px;
+
+
+    /* Border Radius */
+
+    --radius-small: 6px;
+    --radius-medium: 12px;
+    --radius-large: 20px;
+
+
+    /* Shadows */
+
+    --shadow-small:
+        0 4px 12px rgba(15, 23, 42, 0.06);
+
+    --shadow-medium:
+        0 12px 30px rgba(15, 23, 42, 0.08);
+
+
+    /* Transitions */
+
+    --transition-fast:
+        0.2s ease;
+
+    --transition-normal:
+        0.3s ease;
+
+}
